@@ -1,0 +1,23 @@
+.box{
+    width: 40%;
+    height: 400px;
+    background-image: url('png-transparent-chart-abstract-background-purple-texture-other.png');
+    background-repeat: repeat;
+    background-position: top center;
+   
+    border: 12px dotted darkred;
+    margin: 20px;
+    padding: 50px;
+    
+}
+.box p{
+    text-align: center;
+}
+
+.background{
+    background-clip: content-box;
+}
+
+.background1{
+    background-clip: padding-box;
+}

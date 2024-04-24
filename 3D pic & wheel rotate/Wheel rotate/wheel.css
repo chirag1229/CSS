@@ -1,0 +1,11 @@
+.box{
+    height: 612px;
+    width: 612px;
+    margin: auto;
+    background-image: url(wheel.jpeg);
+    transition: all 1s;
+}
+
+.box:hover{
+    transform: rotate(360deg);
+}

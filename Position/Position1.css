@@ -1,0 +1,32 @@
+h1{
+    margin-top: 100px;
+    margin: auto;
+    width: 500px;
+    text-align: center;
+    color: #21c29f;
+    background-color: rgb(242, 245, 242);
+    border-radius: 50px;
+    border: 2px solid black;
+}
+
+h1:hover{
+    text-align: center;
+    /* bgcolor: #034221; */
+    background: #11441f;
+}
+
+.box{
+    height: 100px;
+    width: 100px;
+    border: 2px solid black;
+    background: #e02525;
+    margin: auto;
+    margin-top: 100px;
+   }
+
+.box:hover{
+    background-color: #7c3333;
+    height: 700px;
+    width: 700px;
+}
+

@@ -1,0 +1,103 @@
+.fa-circle-user{
+    color: white;
+    font-size: 50px;
+    /* text-indent: 40px; */
+    margin-top: 20px;
+   
+}
+
+font#font1{
+    color: white;
+    font-size: 30px;
+    font-family: 'Passion One', cursive;;
+}
+
+p#p1{
+    font-size: 20px;
+    line-height: 100%;
+    text-decoration: underline dotted;
+    text-align: center;
+    font-family:'Jura', sans-serif;
+}
+
+b#b2{
+    /* text-indent: 60px; */
+    /* font-family: 'Itim', cursive;
+    color: green;
+    font-size: 20px; */
+    margin-left: 60px;
+
+}
+
+font#font2{
+    font-size: 13px;
+    text-indent: 70px;
+    color: brown;
+    text-decoration: overline dotted;
+    text-align: right;
+   
+
+}
+.fa-clock{
+    text-indent: 40px;
+    margin-top: -90px;
+}
+
+b#b3{
+    /* font-family: 'Itim', cursive;
+    color: green;
+    font-size: 20px; */
+    margin-left: 1150px;
+}
+
+b#b4{
+    /* font-family: 'Itim', cursive;
+    color: green;
+    font-size: 20px; */
+    margin-left: 55px;
+}
+
+b#b5{
+    /* line-height: 40px; */
+    /* font-family: 'Itim', cursive;
+    color: green;
+    font-size: 20px; */
+    margin-left: 55px;
+}
+
+b#b6{
+    /* font-family: 'Itim', cursive;
+    color: green;
+    font-size: 20px; */
+    margin-left: 1290px;
+    /* text-align: right; */
+}
+
+p#p2{
+    font-size: 20px;
+    line-height: 100%;
+    text-decoration: underline dotted;
+    text-align: center;
+    font-family:'Jura', sans-serif;
+}
+
+b#b7{
+    /* font-family: 'Itim', cursive;
+    color: green;
+    font-size: 20px; */
+    margin-left: 1125px;
+}
+
+b#b8{
+    /* font-family: 'Itim', cursive;
+    color: green;
+    font-size: 20px; */
+    margin-left: 1110px;
+}
+
+.common{
+    font-family: 'Itim', cursive;
+    color: green;
+    font-size: 20px;
+    text-align: right;
+}

@@ -1,0 +1,94 @@
+*{
+    padding: 0px;
+    margin: 0px;
+}
+
+.navbar{
+    width: 100%;
+    height: 110px;
+    background-color: #033816;
+    display: flex;
+    justify-content: center;
+    
+}
+
+.logo img{
+    margin-top: 7px;
+    margin-right: 500px;
+}
+
+.header{
+    display: flex;
+    text-align: center;
+    justify-content: center;
+    margin-top: 40px;
+}
+
+.header ul{
+    display: flex;
+    color: white;
+    font-size: 20px;
+    list-style: none;
+    gap: 30px;
+}
+
+.image{
+    /* margin-top: 50px; */
+    background-image: url(photos/cherise-banner3.webp);
+    height: 800px;
+    width: 100%;
+    background-repeat: no-repeat;
+    background-color: #00000052;
+    background-blend-mode: hue;
+}
+
+.image .image1{
+    font-size: 20px;
+    color: rgb(255, 255, 255);
+    font-family: 'Roboto Slab', serif;
+    margin-left: 30px;
+    /* margin-top: 400px; */
+    padding-top: 300px;
+    text-shadow: 10px 1px 5px #020202;
+}
+
+.footer{
+    margin-top: 10px;
+    width: 100%;
+    height: 280px;
+    background-color: #7e7878;
+    display: flex;
+}
+
+.footer1 li{
+    font-size: 25px;
+    line-height: 30px;
+    margin-left: 400px;
+}
+
+.footer1 .child{
+    font-size: 20px;
+}
+
+.footer2 li{
+    font-size: 25px;
+    line-height: 30px;
+    margin-left: 200px;
+}
+
+.fa-brands{
+    font-size: 35px;
+    line-height: 50px;
+    margin-left: 60px;
+}
+
+.footer4{
+    font-size: 30px;
+    margin-left: 300px;
+}
+
+.footer5{
+    margin-top: 20px;
+    font-size: 20px;
+    margin-left: 300px;
+}

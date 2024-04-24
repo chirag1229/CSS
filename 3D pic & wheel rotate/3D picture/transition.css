@@ -1,0 +1,18 @@
+.box{
+    height: 600px;
+    width: 1000px;
+    background-image: url('images.jpg');
+    display: block;
+    background-size: cover;
+    /* transform: rotate(70deg); */
+    transform: rotateX(70deg);
+    transform-style:preserve-3d ;
+    transition: all 1s;
+    margin: auto;
+   
+}
+
+.box:hover{
+    transform: rotateX(20deg);
+}
+

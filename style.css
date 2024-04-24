@@ -1,0 +1,22 @@
+p{
+    font-size: 50px;;
+    font-family: verdana;
+    text-align: left;
+    text-indent: 200px;
+    line-height: 75px;
+    word-spacing: 10px;
+    text-decoration: underline;
+    text-decoration-style: dashed;
+}
+
+a{
+    /* text-decoration: underline; */
+    text-decoration: none;
+    font-variant: small-caps;
+    font-size: 50px;
+    text-decoration:underline dotted;
+    /* text-decoration-style: dotted; */
+}
+.txt{
+    font-weight:bold ;
+}

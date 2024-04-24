@@ -1,0 +1,90 @@
+.main{
+    height: auto;
+    width: 1200px;
+    background-color: black;
+    margin: auto;
+}
+
+.box{
+    height: 400px;
+    background-color: white;
+    border: 20px solid  black;
+    margin-bottom: -20px;
+    background-color: cadetblue;
+}
+
+
+.font{
+    font-family: 'Indie Flower';
+    font-size: 30px;
+}
+
+.font1{
+    font-size: 20px;
+    font-family: 'Pacifico' ;
+}
+
+.font2{
+    font-size: 25px;
+    font-family: 'Patrick Hand', cursive;
+    text-align: center;
+}
+
+
+.box1{
+    height: 400px;
+    background-color: white;
+    border: 20px solid  black;
+    margin-bottom: -20px;
+}
+
+.txt{
+    height: 200px;
+    width: 300px;
+    float: left;
+    margin: 100px 20px 100px 50px;
+}
+
+.txt p{
+    color: red;
+    font-size: 18px;
+    padding: 40px 15px;
+    font-family: 'Patrick Hand', cursive;
+}
+
+.common1{
+    background-image: url('img/tajmahel.jpg');
+    background-size: 1200px 400px;
+    background-repeat: no-repeat;
+}
+
+.common2{
+    background-image: url('img/mumbai.jpg');
+    background-size: 700px 400px;
+    background-repeat: repeat;
+}
+
+.common3{
+    background-image: url('img/england.jpg');
+    background-size: 1200px 400px;
+    background-repeat: no-repeat;
+}
+
+.common4{
+    background-image: url('img/chine.jpg');
+    background-size: 1800px 100%;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+}
+
+.common5{
+    background-image: url('img/delhi.jpg');
+    background-size: 1200px 500px;
+    background-repeat: no-repeat;
+}
+
+.common6{
+    background-image: url('img/thailand.jpg');
+    background-size: 1200px 400px;
+    background-repeat: no-repeat;
+}

@@ -1,0 +1,80 @@
+*{
+    padding: 0px;
+    margin: 0px;
+}
+
+/* common css */
+.common:hover{
+    color: black;
+}
+
+.box{
+    height: 100px;
+    width: 1200px;
+    border: 2px solid black;
+    background: #045416;
+    margin: auto;
+    margin-top: 20px;
+    border-radius: 50px;
+    display: flex;
+    color: white;
+    justify-content: space-evenly;
+    align-items: center;
+}
+
+
+/* box-one css */
+.box-One{
+    background-image: url(./images.jpg);
+    height: 70px;
+    width: 70px;
+    background-size: contain;
+    border-radius: 40px;
+    margin: 15px;
+    left: 30px;
+  
+}
+
+.box-One:hover{
+    transform: rotate(360deg);
+    transition: all 2s linear;
+}
+
+
+/* drop-down css */
+.dropdown-contant{
+    display: none;
+    height: 60px;
+    width: 200px;
+    background: #ede9e9;
+    position: absolute;
+    top: 125px;
+    bottom: 0px;
+    
+}
+
+.box-four:hover .dropdown-contant{
+    display: block;
+    
+}
+
+.dropdown-contant a{
+    text-decoration: none;
+    color: black;
+    padding: 10px;
+    /* align-items: center; */
+    text-align: center;
+}
+
+.box-Five:hover .dropdown-contant{
+    display: block;
+    
+}
+b{
+    margin-top: 10px;
+}
+
+
+
+
+ 

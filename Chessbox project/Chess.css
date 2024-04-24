@@ -1,0 +1,27 @@
+.main{
+    width: 1200px;
+    height: 1200px;
+    border: 2px solid black;
+    margin: auto;
+    font-size: 130px;
+    text-align: center;
+}
+
+.box{
+    width: 150px;
+    height: 150px;
+    /* border: 1px solid black; */
+    float: left;
+ } 
+.white{
+    background-color: coral;
+}
+.black{
+    /* background-color: blanchedalmond; */
+    background-color: brown;
+}
+.fa{
+   /* font-size: 100px; */
+   /* text-align: center; */
+   /* padding: 20px 45px 20px; */
+}

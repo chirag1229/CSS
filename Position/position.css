@@ -1,0 +1,35 @@
+.box{
+    height: 100px;
+    width: 100px;
+    /* border: 2px solid black; */
+    float: left;
+    margin: 10px;
+}
+
+.bgred{
+    background-image: url('depositphotos_4856199-stock-photo-chair.jpg');
+    background-size: contain;
+    /* background-color: red; */
+    position: fixed     ;
+    /* left: 300px;
+    top: 20px; */
+}
+
+.bgblack{
+    background-image: url('depositphotos_4856199-stock-photo-chair.jpg');
+    background-size: contain;
+    /* background-color: black; */
+    position: absolute;
+    top: 70px;
+    left: 150px;
+}
+
+.bggreen{
+    background-image: url('depositphotos_4856199-stock-photo-chair.jpg');
+    background-size: contain;
+    background-color: green;
+    position: sticky;
+    left: 290px;
+    top: 10px;
+}
+
